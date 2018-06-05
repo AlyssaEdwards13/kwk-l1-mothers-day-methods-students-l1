@@ -1,4 +1,7 @@
-## Define your method, mothers_day, below. Go through the README and update your method as needed!
+def mother_day
+  puts "Happy mother's day #{your_name}, love #{my_name}"
+end 
+mother_day ("stacy" , "alyssa")
 
 
 
